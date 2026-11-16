@@ -1,0 +1,6 @@
+@CanteenPay.Api_HostAddress = http://localhost:5215
+
+GET {{CanteenPay.Api_HostAddress}}/health
+Accept: application/json
+
+###
